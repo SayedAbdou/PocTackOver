@@ -1,6 +1,6 @@
 {
   "name": "Hello Node.JS Express",
-  "description": "The 'hello, world' for a Node.JS Express App",
+  "description": "The Subdomain TakeOver PoC",
   "keywords": [
     "nodejs",
     "express"
