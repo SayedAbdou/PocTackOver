@@ -5,7 +5,5 @@
     "nodejs",
     "express"
   ],
-  "website": "http://www.jamesward.com",
-  "repository": "https://github.com/jamesward/hello-node_js-express.git",
   "logo": "https://nodejs.org/images/logos/nodejs.png"
 }
